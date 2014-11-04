@@ -1,0 +1,233 @@
+@charset "UTF-8";
+
+$olark-gray-dark = #2a3c43
+$olark-gray-medium = #8f999b
+$olark-gray-light = #edefef
+$olark-gray-medium = #8f999b
+$olark-green = #48c019
+$olark-green-medium = #88DE68
+$olark-blue = #1eaedb
+$olark-blue-medium = #6FCAE8
+$olark-blue-light = #cff1fc
+$olark-blue-light-muted = #e4f5f9
+$olark-orange = #d65129
+$olark-orange-medium = #E6723D
+$olark-yellow = #eec317
+$olark-yellow-medium = #f4db2a
+
+body-font = freight-sans-pro, "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif
+header-font = bree-serif, Georgia, Cambria, "Times New Roman", Times, serif
+
+body
+  margin 0
+  min-width 100%
+
+.top-nav 
+  background #777
+  width 100%
+  height 60px
+
+  .green-check
+    float left
+    margin-right 5px
+    margin-top -1px
+
+
+  .chat-status
+    float right
+    background #fff
+    font-family arial
+    font-weight bold
+    font-size 12px
+    color $olark-blue
+    border-radius (5px)
+    height 24px
+    margin-top 13px
+    margin-right 60px
+    padding 9px 10px 0px 10px
+
+
+  .gear
+    position absolute
+    top 16px
+    right 20px
+
+.main-content
+  width 100%
+  display inline-block
+  height 100vh
+  overflow-x scroll
+
+.people-list
+  float left
+  background $olark-gray-light
+  height 100vh
+  width 180px
+  overflow-y scroll
+
+  img
+    display none
+    margin-left 9px
+    margin-top 5px
+
+  .people-list-heading
+    font-family Arial
+    text-transform uppercase
+    font-size 13px
+    color: $olark-gray-medium
+    margin-left 20px
+    margin-top 30px
+
+  ul
+    margin-left -20px
+    list-style none
+    font-family Arial
+    font-size 14px
+    color $olark-gray-medium
+    line-height 1.8em
+
+.chat-window
+  float left
+  background #fff
+  height 100vh
+  width 440px
+
+
+  .nameplate
+    background $olark-gray-dark
+    height: 80px
+    margin-top: -19px
+    color: #fff
+
+    img
+      float left
+      margin 10px 10px
+
+    h3
+      padding-top 15px
+      margin-left 5px
+      font-family Arial
+
+      span
+        font-weight normal
+        color $olark-gray-medium
+        font-size .8em
+
+        &:before
+          content " "
+
+  p
+    margin-top -14px
+    font-size 12px
+    font-family Arial
+    color $olark-gray-medium
+
+
+  .adv-info-drawer
+    visibility hidden
+    height 20px
+    width 100%
+    background $olark-blue
+
+    .adv-info-drawer-label
+      float left
+      font-size 12px
+      font-family Arial
+      color #fff
+      margin-left 10px
+      margin-top 2px
+    
+
+.advanced-info
+  overflow hidden
+  height 100vh
+  background $olark-gray-light
+
+  .info-tabs
+    margin-top 35px
+    margin-left 30px
+
+    button
+      border none
+      background #c1c1c1
+      border-radius (4px 4px 0px 0px)
+      color #fff
+      font-family Arial
+      font-weight bold
+      text-transform uppercase
+      padding 15px 15px
+      margin-left 20px
+
+    .tab-active
+      background $olark-blue
+
+  .adv-info
+    margin-left 50px
+    margin-top 30px
+    font-family Arial
+    color $olark-gray-medium
+
+    span
+      color $olark-gray-dark
+
+    .also-visited
+      font-size 10px
+      text-transform uppercase
+      font-weight bold
+      color $olark-gray-dark
+
+@media screen and (max-width: 1120px)
+  .adv-info
+    font-size 13px
+
+@media screen and (max-width: 990px)
+
+  .chat-window
+    position absolute
+    width 2000px
+    margin-left 180px
+    overflow hidden
+
+  .adv-info-drawer
+    visibility visible !important
+
+  .advanced-info
+    display none
+
+@media screen and (max-width: 550px)
+
+  .people-list
+    width 40px
+
+  .chat-window
+    float left
+    width 510px
+    margin-left 40px
+
+  .people-list
+    img
+      display block
+
+    .people-list-heading
+      visibility hidden  
+
+    .operators
+      visibility hidden 
+
+    .visitors
+      visibility hidden
+
+  
+
+
+
+    
+
+
+  
+
+
+
+
+
+
