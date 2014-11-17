@@ -5,6 +5,11 @@
 * * * * * { background-color: rgba(0,255,255,.2); }
 * * * * * * { background-color: rgba(255,255,0,.2); }*/
 	
+html {
+  margin:0px;
+  padding:0px;
+}
+
 body {
 	margin:0px;
 	padding:0px;
@@ -129,16 +134,16 @@ p {
 
 .chat-window-inner-inner .nameplate {
   background: #2a3c43;
-  height: 96px;
-  margin-top: -19px;
+  height: 62px;
+  margin-top: -20px;
   color: #fff;
 }
 
 .chat-tabs {
-  margin-top: 18px;
   font-size: 12px;
   min-width: 100%;
   background: #394f59;
+  margin-top: -2px;
 
   text-align: justify;
   -ms-text-justify: distribute-all-lines;
@@ -163,10 +168,15 @@ p {
   vertical-align: top;
   display: inline-block;
   *display: inline;
-  zoom: 1;
   background: #445c66;
   overflow: hidden;
   color: #95afb9;
+}
+
+.tab:hover {
+  background: #384e57;
+  cursor: pointer;
+  color: #fff;
 }
 
 .active {
@@ -193,11 +203,13 @@ p {
 
 .chat-window-inner-inner .nameplate img {
   float: left;
-  margin: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 8px;
 }
 .chat-window-inner-inner .nameplate h3 {
-  margin-top: 10px;
-  margin-left: 5px;
+  margin-top: 20px;
+  padding-top: 9px;
   font-family: Arial;
 }
 .chat-window-inner-inner .nameplate h3 span {
@@ -306,7 +318,7 @@ p {
 	float:left;
 	height: 100vh;
 	width:400px;
-	margin:0px 0px 0px -400px;
+	margin:-2px 0px 0px -400px;
 	background: #edefef;
 }
 
@@ -419,6 +431,10 @@ p {
 	margin:0px;
 }	
 
+  .chat-tabs {
+    margin-left: 0px;
+  }
+
 	.adv-info-drawer {
     visibility: visible !important;
   }
@@ -453,6 +469,10 @@ p {
 
   .chat-window-inner-inner {
   	margin-left: -160px;
+  }
+
+  .chat-tabs {
+    margin-left: -160px;
   }
 
   .people-icon {
