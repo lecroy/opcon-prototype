@@ -455,6 +455,12 @@ h3 {
     margin-top: 0px;
   }
 
+  .text-entry {
+    bottom: 120px;
+  }
+
+
+
 }
 
 @media screen and (max-width: 641px) {
@@ -494,4 +500,5 @@ h3 {
   .last {
   display: none;
 }
+  
 }
