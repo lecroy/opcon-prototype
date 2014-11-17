@@ -23,6 +23,9 @@ p {
 	padding:4px;
 }
 
+h3 {
+  margin: 0;
+}
 
 #header {
   visibility: hidden;
@@ -135,7 +138,6 @@ p {
 .chat-window-inner-inner .nameplate {
   background: #2a3c43;
   height: 62px;
-  margin-top: -20px;
   color: #fff;
 }
 
@@ -208,7 +210,6 @@ p {
   margin-right: 8px;
 }
 .chat-window-inner-inner .nameplate h3 {
-  margin-top: 20px;
   padding-top: 9px;
   font-family: Arial;
 }
@@ -236,7 +237,6 @@ p {
   font-size: 12px;
   font-weight: light;
   color: #8f999b;
-  margin-top: -20px;
 }
 
 
