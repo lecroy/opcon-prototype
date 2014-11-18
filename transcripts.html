@@ -13,7 +13,7 @@
 	
 	<div id="header">
 		<ul id='application-navigation'>
-                <li>
+                <!--<li>
                   <a class='reports' href='/reports' target=''>Reports</a>
                 </li>
                 <li>
@@ -32,7 +32,7 @@
                   </form>
                 </li> -->
         </ul>
-
+			<button class="filter-dropdown-button"><span class="filter-title">View</span><span class="filter-selected">Transcripts &#9662;;</span></button>
             <a href="#"><div class="chat-status"><img src="img/green-check.svg" class="green-check" width="16">Accepting new chats</div></a>
       		<a href="#"><img src="img/gear.svg" class="gear" width="26"></a>
 	</div>
@@ -43,36 +43,59 @@
 				<img src="img/people.svg" class="people-icon" width="24">
 	        <h4 class="people-list-heading">Operators</h4>
 	          <ul class="operators">
-	            <li>ryan-admin <span class="active-chat-no"><img src="img/red-4.svg" width="16"></span></li>
-	            <li>bill-admin <span class="active-chat-no"><img src="img/red-3.svg" width="16"></span></li>
+	            <a href="operator-detail.html"><li>ryan-admin <span class="active-chat-no"><img src="img/green4.svg" width="16"></span></li></a>
+	            <li>bill-admin <span class="active-chat-no"><img src="img/green3.svg" width="16"></span></li>
 	            <li>barbara-admin</li>
 	            <li class="inactive-op">cat-admin<span class="inactive-time">  16 min</span></li>
 	          </ul>
 	        <h4 class="people-list-heading">Visitors</h4>
 	          <ul class="visitors">
-	            <li>Sam Jones</li>
-	            <li>Molly Henderson</li>
-	            <li>David Hernandez</li>
-	            <li>Genghis Khan</li>
-	            <li>Sam Jones</li>
-	            <li>Molly Henderson</li>
-	            <li>David Hernandez</li>
-	            <li>Genghis Khan</li>
-	            <li>Sam Jones</li>
-	            <li>Molly Henderson</li>
-	            <li>David Hernandez</li>
-	            <li>Genghis Khan</li>
-	            <li>Sam Jones</li>
+	            <li>Sam</li>
+	            <li>Molly</li>
+	            <li>David</li>
+	            <li>Genghis</li>
+	            <li>USA</li>
+	            <li>Alexande...</li>
+	            <li>Brazil</li>
+	            <li>Sam</li>
+	            <li>Molly</li>
+	            <li>David</li>
+	            <li>Genghis</li>
+	            <li>Sally</li>
+	          </ul>
+	          <ul class="current-urls">
+	            <li>/help/bigcommer...</li>
+	            <li>/settings</li>
+	            <li>/login?previo...</li>
+	            <li>/dashboard</li>
+	            <li>/config?customi...</li>
+	            <li>/help/cs-cart</li>
+	            <li>/help/bigcommer...</li>
+	            <li>/partnerdirectory</li>
+	            <li>/reports</li>
+	            <li>/groups/414/list...</li>
+	            <li>//featurelist</li>
+	            <li>/help/cs-cart</li>
 	          </ul>
 		</sidebar>
 		
 		<div class="chat-window">
 		
 			<div class="chat-window-inner">
+				<div class="chat-tabs">
+							<div class="tab">Marie<span>&#10006;</span></div>
+							<div class="tab">Brazil<span>&#10006;</span></div>
+							<div class="tab active">Alexander<span>&#10006;</span></div>
+							<div class="tab">Susan<span>&#10006;</span></div>
+							<div class="tab last">Steve<span>&#10006;</span></div>
+							<span class="stretch"></span>
+						</div>
 				<div class="chat-window-inner-inner">
 					<div class="nameplate">
-				        <img src="img/smiley.svg" width="45">
-				        <h3 class="user-name">Alexander Williamson<span>Poughkeepsie, USA</span></h3>
+						
+
+				        <img src="img/smiley.svg" width="35">
+				        <h3 class="user-name">Alexander Williamson<span>Akron, USA</span></h3>
 				        <p>awilliamson@customcarparts.com<span> • Mac • Chrome 24</p>
 				    </div>
 				    <div class="adv-info-drawer">
@@ -99,9 +122,11 @@
 			
 			
 		<div class="advanced-info">
-		    <nav class="info-tabs">
-		        <a href="index.html"><button class="tab">Current chat</button></a>
-		        <a href="recent-chats.html"><button class="tab-active">Recent chats</button></a>
+		    <nav class="right-top">
+		    	<a href="transcripts.html"><button class="filter-dropdown-button"><span class="filter-title">View</span><span class="filter-selected">Transcripts &#9662;</span></button></a>
+		    	<a href="transcripts-full.html"><div class="chat-status"><img src="img/green-check.svg" class="green-check" width="16">Accepting new chats</div></a>
+      			<a href="#"><img src="img/gear.svg" class="gear" width="26"></a>
+		        
 		    </nav>
 		        
 		        <img src="img/recent-chats.png" class="recent-chats">

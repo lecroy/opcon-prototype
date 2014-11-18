@@ -15,7 +15,7 @@ body {
 	padding:0px;
 
 	font-family: arial;
-	background-color: #D1CCCC
+  background-color: #ababab;
 }
 
 p {
@@ -342,9 +342,20 @@ h3 {
 	background: #edefef;
 }
 
+.logged-out-bg {
+  float:left;
+  height: 100vh;
+  width: 700px;
+  background: #ababab;
+}
+
 .advanced-info .right-top {
   margin-top: 35px;
   margin-left: 30px;
+}
+
+.wide-view-nav {
+  margin-left: 20px;
 }
 
 .filter-dropdown-button {
@@ -358,6 +369,35 @@ h3 {
   font-size: 12px;
   outline: none;
   margin-top: -28px;
+  padding: 9px 10px 9px 7px;
+}
+
+.nav-button-logged-out {
+  border: 1px solid #d7d7d7;;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #2a3c43;
+  cursor: pointer;
+  font-size: 12px;
+  outline: none;
+  margin-top: 6px;
+  margin-left: 15px;
+  padding: 9px 10px 9px 7px;
+}
+
+.nav-button-logged-out.active {
+  background: #fff;
+  border: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #2a3c43;
+  cursor: pointer;
+  font-size: 12px;
+  outline: none;
+  margin-top: 6px;
+  margin-left: 15px;
   padding: 9px 10px 9px 7px;
 }
 
@@ -387,7 +427,12 @@ h3 {
 .green-check {
   float: left;
   margin-right: 5px;
-  margin-top: -1px;
+}
+
+.red-x {
+  float: left;
+  margin-right: 5px;
+  margin-top: 1px;
 }
 
 .chat-status {
@@ -426,6 +471,12 @@ h3 {
   font-weight: bold;
   color: #2a3c43;
 }
+
+.recent-chats {
+  margin-top: 40px;
+  margin-left: 26px;
+}
+
 
 .other-pages {
 	font-size: 12px;
