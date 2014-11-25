@@ -2,56 +2,58 @@
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="6.1 425.1 558 501" enable-background="new 6.1 425.1 558 501" xml:space="preserve">
-<circle fill="#48C019" cx="285.1" cy="673.1" r="238.5"/>
-<path fill="#48C019" d="M481,1535.3H96.6c-40.9,0-72.4-33.4-72.4-72.4v-325c0-40.9,31.6-72.4,72.4-72.4h386.3
-	c40.9,0,72.4,33.4,72.4,72.4v325C555.3,1503.7,521.9,1535.3,481,1535.3z"/>
+	 viewBox="0 532.8 650 667.2" enable-background="new 0 532.8 650 667.2" xml:space="preserve">
+<path fill="#48C019" d="M559.3,2026.5H111.5c-47.6,0-84.3-38.9-84.3-84.3v-378.6c0-47.6,36.8-84.3,84.3-84.3h450
+	c47.6,0,84.3,38.9,84.3,84.3v378.6C645.8,1989.7,606.9,2026.5,559.3,2026.5z"/>
 <g>
-	<path fill="#FFFFFF" d="M1277.3,665c24.1,3.7,44.6,16.7,57.6,27.9c13,16.7,20.4,31.6,20.4,52c0,16.7-3.7,33.4-13,44.6
-		c-7.4,13-16.7,24.1-27.9,31.6c-13,7.4-24.1,16.7-40.9,20.4c-16.7,3.7-33.4,7.4-48.3,7.4c-20.4,0-37.1-3.7-52-7.4
-		c-14.9-3.7-31.6-7.4-44.6-16.7l7.4-61.3c13,7.4,24.1,13,40.9,16.7c16.7,3.7,27.9,7.4,44.6,7.4c16.7,0,31.6-3.7,40.9-7.4
-		c13-7.4,16.7-16.7,16.7-31.6c0-24.1-20.4-40.9-57.6-40.9c-7.4,0-16.7,0-20.4,0c-7.4,0-13,0-20.4,0v-57.6c13,0,20.4-3.7,31.6-7.4
-		c13-3.7,20.4-3.7,27.9-7.4c7.4-3.7,16.7-7.4,20.4-16.7c3.7-3.7,7.4-13,7.4-20.4c0-13-3.7-20.4-13-24.1c-7.4-3.7-20.4-7.4-37.1-7.4
-		c-13,0-24.1,3.7-37.1,7.4s-24.1,13-37.1,20.4l-16.7-57.6c16.7-7.4,27.9-16.7,48.3-24.1c16.7-7.4,37.1-7.4,61.3-7.4
-		c16.7,0,31.6,0,44.6,3.7c13,3.7,24.1,7.4,37.1,16.7c7.4,7.4,16.7,16.7,24.1,27.9c3.7,13,7.4,20.4,7.4,31.6c0,7.4,0,20.4-3.7,27.9
-		c-3.7,7.4-7.4,16.7-13,20.4c-3.7,7.4-13,13-20.4,16.7C1297.7,661.3,1288.5,665,1277.3,665z"/>
+	<path fill="#FFFFFF" d="M1486.9,1012.8c28.1,4.3,52,19.5,67.1,32.5c15.1,19.5,23.8,36.8,23.8,60.6c0,19.5-4.3,38.9-15.1,52
+		c-8.6,15.1-19.5,28.1-32.5,36.8c-15.1,8.6-28.1,19.5-47.6,23.8c-19.5,4.3-38.9,8.6-56.3,8.6c-23.8,0-43.2-4.3-60.6-8.6
+		c-17.4-4.3-36.8-8.6-52-19.5l8.6-71.4c15.1,8.6,28.1,15.1,47.6,19.5c19.5,4.3,32.5,8.6,52,8.6s36.8-4.3,47.6-8.6
+		c15.1-8.6,19.5-19.5,19.5-36.8c0-28.1-23.8-47.6-67.1-47.6c-8.6,0-19.5,0-23.8,0c-8.6,0-15.1,0-23.8,0v-67.1
+		c15.1,0,23.8-4.3,36.8-8.6c15.1-4.3,23.8-4.3,32.5-8.6c8.6-4.3,19.5-8.6,23.8-19.5c4.3-4.3,8.6-15.1,8.6-23.8
+		c0-15.1-4.3-23.8-15.1-28.1c-8.6-4.3-23.8-8.6-43.2-8.6c-15.1,0-28.1,4.3-43.2,8.6c-15.1,4.3-28.1,15.1-43.2,23.8l-19.5-67.1
+		c19.5-8.6,32.5-19.5,56.3-28.1c19.5-8.6,43.2-8.6,71.4-8.6c19.5,0,36.8,0,52,4.3c15.1,4.3,28.1,8.6,43.2,19.5
+		c8.6,8.6,19.5,19.5,28.1,32.5c4.3,15.1,8.6,23.8,8.6,36.8c0,8.6,0,23.8-4.3,32.5c-4.3,8.6-8.6,19.5-15.1,23.8
+		c-4.3,8.6-15.1,15.1-23.8,19.5C1510.7,1008.4,1499.9,1012.8,1486.9,1012.8z"/>
 </g>
-<rect x="-1045" y="24" fill="#2A3C43" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -1007.0042 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#2a3c43</text>
-<text transform="matrix(1 0 0 1 -994.1722 9.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Text</text>
-<text transform="matrix(1 0 0 1 -994.1722 240.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Text</text>
-<text transform="matrix(1 0 0 1 -1061.1721 473.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Strokes/Backgrounds</text>
-<rect x="-1045" y="253" fill="#8F999B" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -1007.0042 405.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#8f999b</text>
-<rect x="-1045" y="491" fill="#EDEFEF" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -1007.0042 643.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#edefef</text>
-<rect x="-395" y="24" fill="#CFF1FC" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -352.488 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#cff1fc</text>
-<rect x="-395" y="252" fill="#E4F5F9" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -352.488 404.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#e4f5f9</text>
-<text transform="matrix(1 0 0 1 -377.3689 9.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Backgrounds</text>
-<rect x="-231" y="24" fill="#EEC317" width="130" height="130"/>
+<rect x="-1218.3" y="266.1" fill="#2A3C43" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -1174.0392 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#2a3c43</text>
+<text transform="matrix(1 0 0 1 -1159.0913 249.5331)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Text</text>
+<text transform="matrix(1 0 0 1 -1159.0913 518.6185)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Text</text>
+<text transform="matrix(1 0 0 1 -1237.1378 790.035)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Strokes/Backgrounds</text>
+<rect x="-1218.3" y="532.8" fill="#8F999B" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -1174.0392 710.8232)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#8f999b</text>
+<rect x="-1218.3" y="810.1" fill="#EDEFEF" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -1174.0392 988.0634)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#edefef</text>
+<rect x="-461.1" y="266.1" fill="#CFF1FC" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -411.6095 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#cff1fc</text>
+<rect x="-461.1" y="531.7" fill="#E4F5F9" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -411.6095 709.6581)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#e4f5f9</text>
+<text transform="matrix(1 0 0 1 -440.5928 249.5331)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Backgrounds</text>
+<rect x="-270.1" y="266.1" fill="#EEC317" width="151.4" height="151.4"/>
 <g>
-	<text transform="matrix(1 0 0 1 -193.3157 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#eec317</text>
+	<text transform="matrix(1 0 0 1 -226.1943 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#eec317</text>
 </g>
-<rect x="-231" y="252" fill="#F4DB2A" width="130" height="130"/>
+<rect x="-270.1" y="531.7" fill="#F4DB2A" width="151.4" height="151.4"/>
 <g>
-	<text transform="matrix(1 0 0 1 -192.2727 404.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#f4db2a</text>
+	<text transform="matrix(1 0 0 1 -224.9791 709.6581)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#f4db2a</text>
 </g>
-<rect x="-720" y="24" fill="#D65129" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -682.7908 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#d65129</text>
-<text transform="matrix(1 0 0 1 -673.9861 9.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Links</text>
-<rect x="-720" y="252" fill="#E6723D" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -682.7908 404.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#E6723D</text>
-<rect x="-558" y="24" fill="#1EAEDB" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -520.9404 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#1eaedb</text>
-<text transform="matrix(1 0 0 1 -539.5164 9.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Links / BTNS</text>
-<rect x="-558" y="252" fill="#6FCAE8" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -520.9404 404.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#6FCAE8</text>
-<rect x="-883" y="24" fill="#48C019" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -844.6677 176.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#48c019</text>
-<text transform="matrix(1 0 0 1 -868.4096 9.8053)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="16">Primary BTN’s</text>
-<rect x="-883" y="252" fill="#88DE68" width="130" height="130"/>
-<text transform="matrix(1 0 0 1 -844.6677 404.8053)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="14">#88DE68</text>
-<text transform="matrix(1 0 0 1 177.1318 811.1719)" fill="#FFFFFF" font-family="'HelveticaNeue-Medium'" font-size="392.3812">3</text>
+<rect x="-839.7" y="266.1" fill="#D65129" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -796.3712 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#d65129</text>
+<text transform="matrix(1 0 0 1 -786.1148 249.5331)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Links</text>
+<rect x="-839.7" y="531.7" fill="#E6723D" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -796.3712 709.6581)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#E6723D</text>
+<rect x="-651" y="266.1" fill="#1EAEDB" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -607.8359 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#1eaedb</text>
+<text transform="matrix(1 0 0 1 -629.4746 249.5331)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Links / BTNS</text>
+<rect x="-651" y="531.7" fill="#6FCAE8" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -607.8359 709.6581)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#6FCAE8</text>
+<rect x="-1029.6" y="266.1" fill="#48C019" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -984.9376 444.0669)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#48c019</text>
+<text transform="matrix(1 0 0 1 -1012.5939 249.5331)" fill="#2A3C43" font-family="'HelveticaNeue'" font-size="18.638">Primary BTN’s</text>
+<rect x="-1029.6" y="531.7" fill="#88DE68" width="151.4" height="151.4"/>
+<text transform="matrix(1 0 0 1 -984.9376 709.6581)" fill="#2A3C43" font-family="'HelveticaNeue-Bold'" font-size="16.3082">#88DE68</text>
+<path fill="#8F999B" d="M324.8,547.7c-163,0-295.5,120.3-295.5,268.5c0,88.8,47.6,167,120.3,216.1L90,1185.6l199.7-102.7
+	c11.5,1.2,23.3,2.1,35.5,2.1c163,0,295.5-120.3,295.5-268.5S487.9,547.7,324.8,547.7z"/>
+<text transform="matrix(1 0 0 1 198.7918 988.0634)" fill="#FFFFFF" font-family="'HelveticaNeue-Medium'" font-size="457.0749">3</text>
 </svg>
